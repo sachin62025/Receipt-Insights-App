@@ -25,6 +25,11 @@ def extract_text_from_file(file_path: str) -> str:
         logger.error(f"OCR failed for {file_path}: {str(e)}")
         return ""
 
+
+
+
+
+
 def parse_fields(text: str) -> dict:
     logger.info("Parsing fields from text")
     try:
@@ -44,3 +49,5 @@ def parse_fields(text: str) -> dict:
     except Exception as e:
         logger.error(f"Failed to parse fields: {str(e)}")
         return {"vendor": "Unknown", "date": "Unknown", "amount": "0.00", "category": "Misc"}
+
+

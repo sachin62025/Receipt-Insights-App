@@ -1,0 +1,86 @@
+2025-07-20 12:14:45,939 - INFO - Starting OCR for data/uploads\check.jpg
+2025-07-20 12:14:48,306 - INFO - OCR completed for data/uploads\check.jpg
+2025-07-20 12:14:48,323 - INFO - Parsing fields from text
+2025-07-20 12:14:48,323 - INFO - Parsed data: {'vendor': 'Unknown', 'date': 'Unknown', 'amount': '0.00', 'category': 'Misc'}
+2025-07-20 12:18:14,021 - INFO - Starting OCR for data/uploads\invoice.pdf
+2025-07-20 12:18:18,583 - INFO - OCR completed for data/uploads\invoice.pdf
+2025-07-20 12:18:18,585 - INFO - Parsing fields from text
+2025-07-20 12:18:18,587 - INFO - Parsed data: {'vendor': 'Business e', 'date': '01.03.2025', 'amount': '0.00', 'category': 'Misc'}
+2025-07-20 12:20:11,230 - INFO - Starting OCR for data/uploads\OD434531663766412100.pdf
+2025-07-20 12:20:16,867 - INFO - OCR completed for data/uploads\OD434531663766412100.pdf
+2025-07-20 12:20:16,867 - INFO - Parsing fields from text
+2025-07-20 12:20:16,867 - INFO - Parsed data: {'vendor': 'Address: Buildings Alyssa, Begonia & Clover, Embassy Tech Village, Outer Ring Road, Devarabeesanahalli Village,', 'date': '29-05-2025', 'amount': '1', 'category': 'Misc'}
+2025-07-20 12:27:14,984 - INFO - Database initialized.
+2025-07-20 12:27:26,986 - INFO - Database initialized.
+2025-07-20 12:27:26,996 - INFO - Starting OCR for data/uploads\OD434531663766412100.pdf
+2025-07-20 12:27:33,065 - INFO - OCR completed for data/uploads\OD434531663766412100.pdf
+2025-07-20 12:27:33,066 - INFO - Parsing fields from text
+2025-07-20 12:27:33,066 - INFO - Parsed data: {'vendor': 'Address: Buildings Alyssa, Begonia & Clover, Embassy Tech Village, Outer Ring Road, Devarabeesanahalli Village,', 'date': '29-05-2025', 'amount': '1', 'category': 'Misc'}
+2025-07-20 12:27:33,110 - INFO - Inserted receipt for vendor: Address: Buildings Alyssa, Begonia & Clover, Embassy Tech Village, Outer Ring Road, Devarabeesanahalli Village,
+2025-07-20 12:27:36,566 - INFO - Database initialized.
+2025-07-20 12:27:49,489 - INFO - Database initialized.
+2025-07-20 12:27:49,501 - INFO - Starting OCR for data/uploads\invoice.pdf
+2025-07-20 12:27:53,310 - INFO - OCR completed for data/uploads\invoice.pdf
+2025-07-20 12:27:53,312 - INFO - Parsing fields from text
+2025-07-20 12:27:53,312 - INFO - Parsed data: {'vendor': 'Business e', 'date': '01.03.2025', 'amount': '0.00', 'category': 'Misc'}
+2025-07-20 12:27:53,354 - INFO - Inserted receipt for vendor: Business e
+2025-07-20 12:32:13,040 - INFO - Database initialized.
+2025-07-20 12:32:13,520 - INFO - Computing basic stats
+2025-07-20 12:32:13,523 - INFO - Generating monthly spend trend
+2025-07-20 12:32:13,988 - INFO - Calculating vendor frequency
+2025-07-20 12:36:33,589 - INFO - Database initialized.
+2025-07-20 12:36:33,643 - INFO - Computing basic stats
+2025-07-20 12:36:33,643 - INFO - Generating monthly spend trend
+2025-07-20 12:36:33,694 - INFO - Calculating vendor frequency
+2025-07-20 12:37:25,166 - INFO - Database initialized.
+2025-07-20 12:37:25,217 - INFO - Sorting by vendor in ASC order
+2025-07-20 12:37:25,233 - INFO - Computing basic stats
+2025-07-20 12:37:25,233 - INFO - Generating monthly spend trend
+2025-07-20 12:37:25,302 - INFO - Calculating vendor frequency
+2025-07-20 12:37:28,023 - INFO - Database initialized.
+2025-07-20 12:37:28,061 - INFO - Computing basic stats
+2025-07-20 12:37:28,064 - INFO - Generating monthly spend trend
+2025-07-20 12:37:28,133 - INFO - Calculating vendor frequency
+2025-07-20 12:37:29,844 - INFO - Database initialized.
+2025-07-20 12:37:29,869 - INFO - Sorting by vendor in DESC order
+2025-07-20 12:37:29,887 - INFO - Computing basic stats
+2025-07-20 12:37:29,891 - INFO - Generating monthly spend trend
+2025-07-20 12:37:29,945 - INFO - Calculating vendor frequency
+2025-07-20 16:00:01,450 - INFO - Database initialized.
+2025-07-20 16:00:01,945 - INFO - Computing basic stats
+2025-07-20 16:00:01,948 - INFO - Generating monthly spend trend
+2025-07-20 16:00:02,223 - INFO - Calculating vendor frequency
+2025-07-20 16:00:09,658 - INFO - Database initialized.
+2025-07-20 16:00:09,688 - INFO - Computing basic stats
+2025-07-20 16:00:09,693 - INFO - Generating monthly spend trend
+2025-07-20 16:00:09,729 - INFO - Calculating vendor frequency
+2025-07-20 16:00:20,721 - INFO - Database initialized.
+2025-07-20 16:00:20,749 - INFO - Computing basic stats
+2025-07-20 16:00:20,752 - INFO - Generating monthly spend trend
+2025-07-20 16:00:20,779 - INFO - Calculating vendor frequency
+2025-07-20 16:00:43,008 - INFO - Database initialized.
+2025-07-20 16:00:43,026 - INFO - Starting OCR for data\uploads\invoic1e.pdf
+2025-07-20 16:00:46,356 - INFO - OCR completed for data\uploads\invoic1e.pdf
+2025-07-20 16:00:46,356 - INFO - Parsing fields from text
+2025-07-20 16:00:46,356 - INFO - Parsed data: {'vendor': 'Business e', 'date': '01.03.2025', 'amount': '0.00', 'category': 'Misc'}
+2025-07-20 16:00:46,373 - INFO - Inserted receipt for vendor: Business e
+2025-07-20 16:00:46,395 - INFO - Computing basic stats
+2025-07-20 16:00:46,397 - INFO - Generating monthly spend trend
+2025-07-20 16:00:46,442 - INFO - Calculating vendor frequency
+2025-07-20 16:01:03,993 - INFO - Database initialized.
+2025-07-20 16:01:04,025 - INFO - Computing basic stats
+2025-07-20 16:01:04,029 - INFO - Generating monthly spend trend
+2025-07-20 16:01:04,075 - INFO - Calculating vendor frequency
+2025-07-20 16:15:28,452 - INFO - Database initialized.
+2025-07-20 16:15:28,852 - INFO - Computing basic stats
+2025-07-20 16:15:28,855 - INFO - Generating monthly spend trend
+2025-07-20 16:15:29,084 - INFO - Calculating vendor frequency
+2025-07-20 16:15:43,594 - INFO - Database initialized.
+2025-07-20 16:15:43,609 - INFO - Starting OCR for data\uploads\document.pdf
+2025-07-20 16:15:46,867 - INFO - OCR completed for data\uploads\document.pdf
+2025-07-20 16:15:46,869 - INFO - Parsing fields from text
+2025-07-20 16:15:46,869 - INFO - Parsed data: {'vendor': 'WX Seed ServicePlus Mobile App 4 &l', 'date': '2023.06.26', 'amount': '0.00', 'category': 'Misc'}
+2025-07-20 16:15:46,869 - INFO - Inserted receipt for vendor: WX Seed ServicePlus Mobile App 4 &l
+2025-07-20 16:15:46,894 - INFO - Computing basic stats
+2025-07-20 16:15:46,894 - INFO - Generating monthly spend trend
+2025-07-20 16:15:46,928 - INFO - Calculating vendor frequency
